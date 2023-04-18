@@ -24,7 +24,7 @@ Después de estos pasos quedan 2 más que son muy importante:
 
 * Por ultimo tenes que abrir una terminal(cualquiera en la que te sientas comodo) y ejecutar el projecto poniendo:
 ```sh
-python3 index.py
+python index.py
 ```
 Para hacerlo un poco más propio al proyecto agregue el archivo "archivoAuto.py" que básicamente te crea una carpeta llamada descargas y pone el video descargado. Si la carpeta "descargas" ya está creada, el video se pondrá automáticamente en esa carpeta.
 
