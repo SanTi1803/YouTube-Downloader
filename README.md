@@ -32,3 +32,4 @@ Para hacerlo un poco más propio al proyecto agregue el archivo "archivoAuto.py"
 # **Requisitos Previos**
 ```sh
 - Python
+- Version 3.6 de python hacia adelante
