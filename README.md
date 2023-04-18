@@ -15,14 +15,17 @@ pip install pytube
 
 Después de estos pasos quedan 2 más que son muy importante:
 
-<ul>
-    <li>Lo primero que tenés que hacer es entrar al archivo "index.py" y poner la URL del video que desees descargar. </<li>
-</ul>
 
-<ul>
-    <li>Lo segundo que tenés que hacer es entrar al archivo "archivoAuto.py" y en path poner la ruta en donde descargaste este proyecto. EJ: C:/Users/santi/Documents/Example/ </<li>
-</ul>
+* Lo primero que tenés que hacer es entrar al archivo "index.py" y poner la URL del video que desees descargar.
 
+
+* Lo segundo que tenés que hacer es entrar al archivo "archivoAuto.py" y en path poner la ruta en donde descargaste este proyecto. EJ: C:/Users/santi/Documents/Example/. <br>**Aclaración:** Las barras de la ruta no tienen que estar invertidas y pongan una barra al final de tal modo que si no están, el código no te funcionara.
+
+
+* Por ultimo tenes que abrir una terminal(cualquiera en la que te sientas comodo) y ejecutar el projecto poniendo:
+```sh
+python3 index.py
+```
 Para hacerlo un poco más propio al proyecto agregue el archivo "archivoAuto.py" que básicamente te crea una carpeta llamada descargas y pone el video descargado. Si la carpeta "descargas" ya está creada, el video se pondrá automáticamente en esa carpeta.
 
 
