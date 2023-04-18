@@ -3,7 +3,8 @@ Esta pequeña intro te dirá como tenés que hacer para descargar cualquier vide
 
 Estos son los pasos a seguir:
 ```sh
-git clone 
+git clone https://github.com/SanTi1803/YouTube-Downloader.git
+cd YouTube-Downloader
 python3 -m venv env
 source env/bin/activate #Linux
 source env/Scripts/activate # Windows
